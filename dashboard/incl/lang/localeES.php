@@ -167,7 +167,7 @@ $string["level4"] = "Nivel 4";
 $string["level5"] = "Nivel 5";
 $string["gauntletChange"] = "Cambiar Gauntlet";
 $string["createNewGauntlet"] = "¡Crea un nuevo Gauntlet!"; // Translate word "create" like its call to action
-$string["gauntletCreateSuccessNew"] = '¡Has creado con éxito el Gauntlet <b>%1$s</b>!';
+$string["gauntletCreateSuccessNew"] = '¡Has creado con éxito el <b>%1$s</b>!';
 $string["gauntletSelectAutomatic"] = "Elegir Gauntlet automáticamente";
 // quests
 $string["addQuest"] = "Crear misión";
@@ -304,7 +304,7 @@ $string["likeSong"] = "Añadir a favoritos";
 $string["dislikeSong"] = "Quitar de favoritos";
 $string["favouriteSongs"] = "Canciones favoritas";
 $string["howMuchLiked"] = "¿A cuántos les ha gustado?"; // nejik: unused string
-$string["nooneLiked"] = "A nadie le ha gustado"; // same as previous
+$string["nooneLiked"] = "A nadie le ha gustado"; // nejik: same as previous
 // clans
 $string["clan"] = "Clan";
 $string["joinedAt"] = "Se unió al clan: <b>%s</b>";
@@ -491,8 +491,8 @@ $string["future"] = "Futuro";
 // ban & mod actions
 $string["spoiler"] = "Spoiler";
 $string["accid"] = "con la ID de cuenta";
-$string["banned"] = "fue baneado exitósamente";
-$string["unbanned"] = "fue desbaneado exitósamente";
+$string["banned"] = "fue baneado con éxito";
+$string["unbanned"] = "fue desbaneado con éxito";
 $string["ban"] = "Banear";
 $string["nothingFound"] = "¡Este jugador no existe!";
 $string["banUserID"] = "Nombre o ID del jugador";
