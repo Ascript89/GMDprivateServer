@@ -4,7 +4,7 @@ include __DIR__."/../../".$dbPath."config/dashboard.php";
 // main
 $string["homeNavbar"] = "Inicio";
 $string["welcome"] = "¡Bienvenido a ".$gdps.'!';
-$string["didntInstall"] = "<div style='color:#47a0ff'><b>¡Cuidado,</b>&nbsp;no has terminado de instalar el panel! Haz clic en el texto para hacerlo.</div>";
+$string["didntInstall"] = "<div style='color:#47a0ff'><b>¡Cuidado, no has terminado de instalar el panel!</b> Haz clic en el texto para hacerlo.</div>";
 $string["levelsWeek"] = "Niveles subidos en una semana"; // nejik: "en" is more properly, although it's an unused string lol
 $string["levels3Months"] = "Niveles subidos en 3 meses"; // nejik: same as previous
 $string["footer"] = $gdps.", ".date('Y', time());
